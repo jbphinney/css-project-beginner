@@ -1,0 +1,77 @@
+body {
+    font-family: 'Lumanosimo', cursive;
+    background-color: lightgray;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: maroon;
+}
+
+a:hover {
+    font: bolder;
+    cursor: default;
+    color: green;
+}
+
+.number-9 {
+    color: red;
+    font-weight: 100;
+}
+
+.boxes {
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid black;
+    width: 30em;
+    box-shadow: 5px 5px 5px red;
+    display: block;
+}
+
+#box1, #box3, #box2, #box4 {
+    background-color: silver;
+}
+
+.image-set-2 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: azure;
+    position: relative;
+    right: 2em;
+    top: 3.5em;
+}
+
+.image-set-1 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: azure;
+    position: relative;
+    left: 2em;
+    top: 3.5em;
+}
+
+.image-set-3 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: azure;
+    position: relative;
+    left: 7em;
+    top: 3.5em;
+}
+
+.image-set-4 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: azure;
+    position: relative;
+    left: 4em;
+    top: 3.5em;
+}
