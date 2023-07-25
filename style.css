@@ -36,6 +36,15 @@ a:hover {
     background-color: silver;
 }
 
+.image-set- {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: azure;
+    position: relative;
+    right: 2em;
+}
+
 .image-set-2 {
     height: 50px;
     width: 50px;
@@ -74,4 +83,52 @@ a:hover {
     position: relative;
     left: 4em;
     top: 3.5em;
+}
+
+h1 {
+    color: darkgoldenrod;
+}
+
+.original {
+    color: black;
+}
+
+.additional {
+    color: limegreen;
+}
+
+#one {
+    color: red;
+}
+
+#two {
+    color: blueviolet;
+}
+
+#three {
+    color: burlywood;
+}
+
+#four {
+    color: cornflowerblue;
+}
+
+#five {
+    color: peachpuff;
+}
+
+ul {
+    color: indianred;
+}
+
+.star {
+    color: olive;
+}
+
+.wars {
+    color: lightcoral;
+}
+
+.final-box {
+    border: 2px solid black;
 }
